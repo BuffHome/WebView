@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+webview.Main-Class: koen.klibs.Main
+
